@@ -1,8 +1,7 @@
 {
-  "$schema": "https://openapi.vercel.sh/vercel.json",
   "functions": {
-    "api/*": {
-      "maxDuration": 30
+    "api/abort-controller/*": {
+      "supportsCancellation": true
     }
   }
 }
