@@ -1,0 +1,10 @@
+{
+  "name": "vanilla-vercel-functions",
+  "license": "MIT",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "devDependencies": {
+    "vercel": "^41.0.2"
+  }
+}
