@@ -1,3 +1,0 @@
-[03:40:41.844] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/home/indran/INDRAN/WORK/NEXUS/nextjs-ef-boilerplate/app'
-[03:40:41.847] Server  ERROR    ⨯ "unhandledRejection:" Error: ENOENT: no such file or directory, scandir '/home/indran/INDRAN/WORK/NEXUS/nextjs-ef-boilerplate/app'
-[03:40:41.848] Server  ERROR    ⨯ "unhandledRejection: " Error: ENOENT: no such file or directory, scandir '/home/indran/INDRAN/WORK/NEXUS/nextjs-ef-boilerplate/app'
