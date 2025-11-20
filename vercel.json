@@ -1,0 +1,13 @@
+{
+  "functions": {
+    "api/hello.js": {
+      "runtime": "edge"
+    }
+  },
+  "routes": [
+    {
+      "src": "/api/hello",
+      "dest": "/api/hello.js"
+    }
+  ]
+}
